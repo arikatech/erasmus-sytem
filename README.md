@@ -22,14 +22,15 @@ The system demonstrates handling **one-to-many and many-to-many relationships** 
 ---
 
 ## ER Diagram
+<img width="1160" height="583" alt="er-diagram" src="https://github.com/user-attachments/assets/0394d742-4c4d-4209-8daa-a98556df942e" />
 
-![ER Diagram](docs/er_diagram.png)
 
 ---
 
 ## Relational Schema
 
-![Relational Schema](docs/relational_schema.png)
+<img width="768" height="659" alt="relational-schema" src="https://github.com/user-attachments/assets/de288741-1b49-4d35-9ea6-4ff6255f7c76" />
+
 
 ---
 
